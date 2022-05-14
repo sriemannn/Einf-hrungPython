@@ -1,4 +1,4 @@
-# Einf-hrungPython
+# EinfuehrungPython
 
 Die Dateien sollen euch eine kleine Einführung geben, damit ihr statistische Tests in Python ausführen könnt. 
 
