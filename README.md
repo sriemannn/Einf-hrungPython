@@ -45,4 +45,4 @@ oder ihr nutzt VS-Code, was ich ein bisschen angenehmer finde, aber etwas kompli
 
 ### Download (etwas schwerer)
 1. Öffnet Anaconda Prompt und installiert git (wie oben bei der Python Installation)
-2. Dann gebt ihr folgendes in den Terminal ein: `git clone https://github.com/sriemannn/Einf-hrungPython.git` und füge den Dateipfad zu dem Ordner ein, in dem du gerne die Dateien speichern möchtest. Den Pfad kannst du in Windows zum Beispiel direkt kopieren und anschließend mit einem Rechtsklick in das Terminal einfügen. ![Speicherpfad finden](./images/DenRichtigenPfadZumSpeichern.png)
+2. Dann gebt ihr folgendes in den Terminal ein: `git clone https://github.com/sriemannn/Einf-hrungPython.git <Zieldateipfad>` und füge den Dateipfad zu dem Ordner ein, in dem du gerne die Dateien speichern möchtest. Den Pfad kannst du in Windows zum Beispiel direkt kopieren und anschließend mit einem Rechtsklick in das Terminal einfügen. ![Speicherpfad finden](./images/DenRichtigenPfadZumSpeichern.png)
