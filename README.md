@@ -7,7 +7,7 @@ Sie wurden in folgender Reihenfolge erstellt und sollten auch in dieser bearbeit
 1. KorrelationTTest
 2. ANOVA
 3. ANOVA-Hintergrund
-4. repeated measures ANOVA
+4. repeated measures ANOVA (unfertig)
 
 ## Vorbereitung
 
