@@ -11,7 +11,7 @@ Sie wurden in folgender Reihenfolge erstellt und sollten auch in dieser bearbeit
 
 ## Vorbereitung
 
-Letzendlich gibt es viele verschiedene Möglichkeiten die Files zu bearbeiten. Ich gebe euch eine kleine Einführung, wie ihr die Dateien Downloaden könnt und sie anschließend bearbeiten könnt. Vorher zeige ich euch noch, wie man Python installiert und Python Packages und anderes mit ANACONDA installiert.
+Letzendlich gibt es viele verschiedene Möglichkeiten die Files zu bearbeiten. Ich gebe euch eine kleine Einführung, wie ihr die Dateien downloaden könnt und sie anschließend bearbeiten könnt. Vorher zeige ich euch noch, wie man Python installiert und Python Packages und anderes mit Anaconda installiert.
 
 ### Python Installation und Installation von Packages
 
