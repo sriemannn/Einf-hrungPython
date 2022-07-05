@@ -4,10 +4,15 @@ Die Dateien sollen euch eine kleine Einführung geben, damit ihr statistische Te
 
 Sie wurden in folgender Reihenfolge erstellt und sollten auch in dieser bearbeitet werden.
 
+0. Grundlegendes zu Python*
 1. KorrelationTTest
+1.1 Hintergründe T-Tests*
 2. ANOVA
 3. ANOVA-Hintergrund
-4. repeated measures ANOVA (unfertig)
+4. repeated measures ANOVA
+
+________________________________________________________
+\* wird erstellt
 
 ## Vorbereitung
 
