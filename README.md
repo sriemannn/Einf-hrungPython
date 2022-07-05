@@ -6,10 +6,10 @@ Sie wurden in folgender Reihenfolge erstellt und sollten auch in dieser bearbeit
 
 0. Grundlegendes zu Python*
 1. KorrelationTTest
-1.1 Hintergründe T-Tests*
-2. ANOVA
-3. ANOVA-Hintergrund
-4. repeated measures ANOVA
+2. Hintergründe T-Tests*
+3. ANOVA
+4. ANOVA-Hintergrund
+5. repeated measures ANOVA
 
 ________________________________________________________
 \* wird erstellt
