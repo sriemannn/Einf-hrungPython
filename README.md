@@ -2,7 +2,7 @@
 
 Die Dateien sollen euch eine kleine Einführung geben, damit ihr statistische Tests in Python ausführen könnt. 
 
-Sie wurden in folgender Reihenfolge erstellt und sollten auch in dieser bearbeitet werden.
+Die Reihenfolge der Bearbeitung ist in folgender Weise gedacht:
 
 0. Grundlegendes zu Python*
 1. KorrelationTTest
